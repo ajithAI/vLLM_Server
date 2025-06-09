@@ -20,6 +20,7 @@ tar xf cmake-3.2.6.tar.gz
 cd cmake-3.2.2
 ./configure
 make
+make install
 ```
 ```
 pip3 install -v -r requirements/cpu.txt --extra-index-url https://download.pytorch.org/whl/cpu
